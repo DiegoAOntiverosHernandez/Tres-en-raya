@@ -33,7 +33,10 @@ Este proyecto está construido enteramente en **Java Puro (Vanilla)** sin librer
 
 ## 🚀 Cómo Jugar
 
-Simplemente navega a la carpeta `distribucion/TresEnRaya` y ejecuta el archivo **`TresEnRaya.exe`**. ¡No necesitas instalar Java ni configurar nada extra!
+1. Descarga el archivo **`TresEnRaya_Windows.zip`** que se encuentra en este repositorio.
+2. Extrae (descomprime) el archivo `.zip` en cualquier carpeta de tu computadora.
+3. Entra en la carpeta extraída y dale doble clic a **`TresEnRaya.exe`** (el archivo con el ícono del juego).
+4. ¡A jugar! No necesitas instalar Java ni configurar nada extra; el juego incluye su propio motor interno.
 
 ## 👨‍💻 Autor
 Diego A. Ontiveros Hernandez
