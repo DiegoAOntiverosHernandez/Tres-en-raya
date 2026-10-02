@@ -1,6 +1,6 @@
 # Tres en Raya - Edición Arcade (Deadlock Theme)
 
-¡Bienvenido a **Tres en Raya - Edición Arcade**! Este no es un juego de Tres en Raya cualquiera; es una versión moderna, trepidante y temática (inspirada en los personajes Archmother y Hidden King de Deadlock), que lleva el clásico juego de mesa a otro nivel con música épica, efectos visuales y mecánicas en tiempo real.
+¡Bienvenido a **Tres en Raya - Edición Arcade**! Este  es un juego de Tres en Raya cualquiera; pero es una versión moderna,  y temática (inspirada en los personajes Archmother y Hidden King de Deadlock), que lleva el clásico juego de mesa a otro nivel con música, efectos visuales y mecánicas en tiempo real.
 
 ## 🎮 Modos de Juego
 
